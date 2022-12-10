@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- Mastodon: https://hachyderm.io/@madajczyk
 <!--
 **madajczyk/madajczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
