@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Mastodon: <a rel="me" href="https://hachyderm.io/@madajczyk">Mastodon</a>
+- Mastodon: <a rel="me" href="https://hachyderm.io/@madajczyk">@madajczyk@hachyderm.io</a>
 
 <!--
 **madajczyk/madajczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
